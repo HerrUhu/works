@@ -1,0 +1,268 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:480px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+.form_sketch {
+  border-color:transparent;
+  background-color:transparent;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u9788_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:413px;
+  height:36px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  text-align:left;
+}
+#u9788 {
+  border-width:0px;
+  position:absolute;
+  left:20px;
+  top:20px;
+  width:413px;
+  height:36px;
+  display:flex;
+  text-align:left;
+}
+#u9788 .text {
+  position:absolute;
+  align-self:flex-start;
+  padding:0px 0px 0px 0px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u9788_text {
+  border-width:0px;
+  white-space:nowrap;
+  text-transform:none;
+}
+#u9789_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:340px;
+  height:96px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Trebuchet MS Полужирный', 'Trebuchet MS Обычный', 'Trebuchet MS';
+  font-style:normal;
+  color:#1E1E1E;
+  line-height:24px;
+}
+#u9789 {
+  border-width:0px;
+  position:absolute;
+  left:140px;
+  top:80px;
+  width:340px;
+  height:96px;
+  display:flex;
+  font-family:'Trebuchet MS Полужирный', 'Trebuchet MS Обычный', 'Trebuchet MS';
+  font-style:normal;
+  color:#1E1E1E;
+  line-height:24px;
+}
+#u9789 .text {
+  position:absolute;
+  align-self:flex-start;
+  padding:0px 0px 0px 0px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u9789_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u9790_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:100px;
+  height:120px;
+  background:inherit;
+  background-color:rgba(242, 242, 242, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Trebuchet MS Обычный', 'Trebuchet MS';
+  font-weight:400;
+  font-style:normal;
+}
+#u9790 {
+  border-width:0px;
+  position:absolute;
+  left:20px;
+  top:80px;
+  width:100px;
+  height:120px;
+  display:flex;
+  font-family:'Trebuchet MS Обычный', 'Trebuchet MS';
+  font-weight:400;
+  font-style:normal;
+}
+#u9790 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u9790_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u9791_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:180px;
+  height:40px;
+  background:inherit;
+  background-color:rgba(166, 46, 55, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Trebuchet MS Полужирный', 'Trebuchet MS Обычный', 'Trebuchet MS';
+  font-weight:700;
+  font-style:normal;
+  font-size:11px;
+  color:#FFFFFF;
+}
+#u9791 {
+  border-width:0px;
+  position:absolute;
+  left:220px;
+  top:240px;
+  width:180px;
+  height:40px;
+  display:flex;
+  font-family:'Trebuchet MS Полужирный', 'Trebuchet MS Обычный', 'Trebuchet MS';
+  font-weight:700;
+  font-style:normal;
+  font-size:11px;
+  color:#FFFFFF;
+}
+#u9791 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u9791_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u9792_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:180px;
+  height:40px;
+  background:inherit;
+  background-color:rgba(166, 46, 55, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Trebuchet MS Полужирный', 'Trebuchet MS Обычный', 'Trebuchet MS';
+  font-weight:700;
+  font-style:normal;
+  font-size:11px;
+  color:#FFFFFF;
+}
+#u9792 {
+  border-width:0px;
+  position:absolute;
+  left:20px;
+  top:240px;
+  width:180px;
+  height:40px;
+  display:flex;
+  font-family:'Trebuchet MS Полужирный', 'Trebuchet MS Обычный', 'Trebuchet MS';
+  font-weight:700;
+  font-style:normal;
+  font-size:11px;
+  color:#FFFFFF;
+}
+#u9792 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u9792_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u9793_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:15px;
+  height:15px;
+}
+#u9793 {
+  border-width:0px;
+  position:absolute;
+  left:400px;
+  top:225px;
+  width:15px;
+  height:15px;
+  display:flex;
+  font-family:'Trebuchet MS Обычный', 'Trebuchet MS';
+  font-weight:400;
+  font-style:normal;
+}
+#u9793 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u9793_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}

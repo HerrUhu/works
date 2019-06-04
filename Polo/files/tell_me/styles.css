@@ -1,0 +1,438 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:380px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+.form_sketch {
+  border-color:transparent;
+  background-color:transparent;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u9924_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:322px;
+  height:36px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  text-align:left;
+}
+#u9924 {
+  border-width:0px;
+  position:absolute;
+  left:20px;
+  top:20px;
+  width:322px;
+  height:36px;
+  display:flex;
+  text-align:left;
+}
+#u9924 .text {
+  position:absolute;
+  align-self:flex-start;
+  padding:0px 0px 0px 0px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u9924_text {
+  border-width:0px;
+  white-space:nowrap;
+  text-transform:none;
+}
+#u9925 {
+  position:absolute;
+  left:20px;
+  top:80px;
+}
+#u9925_state0 {
+  position:relative;
+  left:0px;
+  top:0px;
+  width:360px;
+  height:160px;
+  background-image:none;
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u9925_state0_content {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
+#u9926_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:180px;
+  height:40px;
+  background:inherit;
+  background-color:rgba(166, 46, 55, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Trebuchet MS Полужирный', 'Trebuchet MS Обычный', 'Trebuchet MS';
+  font-weight:700;
+  font-style:normal;
+  font-size:11px;
+  color:#FFFFFF;
+}
+#u9926 {
+  border-width:0px;
+  position:absolute;
+  left:100px;
+  top:120px;
+  width:180px;
+  height:40px;
+  display:flex;
+  font-family:'Trebuchet MS Полужирный', 'Trebuchet MS Обычный', 'Trebuchet MS';
+  font-weight:700;
+  font-style:normal;
+  font-size:11px;
+  color:#FFFFFF;
+}
+#u9926 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u9926_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u9927_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:70px;
+  height:18px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Trebuchet MS Обычный', 'Trebuchet MS';
+  font-weight:400;
+  font-style:normal;
+  text-align:left;
+}
+#u9927 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:66px;
+  width:70px;
+  height:18px;
+  display:flex;
+  font-family:'Trebuchet MS Обычный', 'Trebuchet MS';
+  font-weight:400;
+  font-style:normal;
+  text-align:left;
+}
+#u9927 .text {
+  position:absolute;
+  align-self:flex-start;
+  padding:0px 0px 0px 0px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u9927_text {
+  border-width:0px;
+  white-space:nowrap;
+  text-transform:none;
+}
+#u9928_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:259px;
+  height:30px;
+}
+#u9928 {
+  border-width:0px;
+  position:absolute;
+  left:101px;
+  top:60px;
+  width:259px;
+  height:30px;
+  display:flex;
+  line-height:10px;
+}
+#u9928 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u9928_img.selected {
+  left:-7px;
+  top:-7px;
+  width:273px;
+  height:44px;
+}
+#u9928.selected {
+}
+#u9928_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u9929_input {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:256px;
+  height:28px;
+  padding:3px 2px 3px 2px;
+  font-family:'HelveticaNeueCyr Roman', 'HelveticaNeueCyr';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  text-decoration:none;
+  letter-spacing:normal;
+  color:#000000;
+  vertical-align:none;
+  text-align:left;
+  text-transform:none;
+  background-color:transparent;
+  border-color:transparent;
+}
+#u9929_input.disabled {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:256px;
+  height:28px;
+  padding:3px 2px 3px 2px;
+  font-family:'HelveticaNeueCyr Roman', 'HelveticaNeueCyr';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  text-decoration:none;
+  letter-spacing:normal;
+  color:#000000;
+  vertical-align:none;
+  text-align:left;
+  text-transform:none;
+  background-color:transparent;
+  border-color:transparent;
+}
+#u9929_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:256px;
+  height:28px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'HelveticaNeueCyr Roman', 'HelveticaNeueCyr';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+}
+#u9929 {
+  border-width:0px;
+  position:absolute;
+  left:102px;
+  top:61px;
+  width:256px;
+  height:28px;
+  display:flex;
+  font-family:'HelveticaNeueCyr Roman', 'HelveticaNeueCyr';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+}
+#u9929 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u9929_div.disabled {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:256px;
+  height:28px;
+  background:inherit;
+  background-color:rgba(240, 240, 240, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'HelveticaNeueCyr Roman', 'HelveticaNeueCyr';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+}
+#u9929.disabled {
+}
+#u9930_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:360px;
+  height:28px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u9930 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:360px;
+  height:28px;
+  display:flex;
+}
+#u9930 .text {
+  position:absolute;
+  align-self:flex-start;
+  padding:0px 0px 0px 0px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u9930_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u9931_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:15px;
+  height:15px;
+}
+#u9931 {
+  border-width:0px;
+  position:absolute;
+  left:280px;
+  top:105px;
+  width:15px;
+  height:15px;
+  display:flex;
+  font-family:'Trebuchet MS Обычный', 'Trebuchet MS';
+  font-weight:400;
+  font-style:normal;
+}
+#u9931 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u9931_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u9925_state1 {
+  position:relative;
+  left:0px;
+  top:0px;
+  width:360px;
+  height:28px;
+  background-image:none;
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  visibility:hidden;
+}
+#u9925_state1_content {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
+#u9932_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:360px;
+  height:28px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u9932 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:360px;
+  height:28px;
+  display:flex;
+}
+#u9932 .text {
+  position:absolute;
+  align-self:flex-start;
+  padding:0px 0px 0px 0px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u9932_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}

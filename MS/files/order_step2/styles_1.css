@@ -1,0 +1,2329 @@
+﻿
+#u9289 .text {
+  position:absolute;
+  align-self:flex-start;
+  padding:0px 0px 0px 0px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u9289_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u9290_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:700px;
+  height:60px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:3px;
+  border-style:solid;
+  border-color:rgba(121, 121, 121, 1);
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Trebuchet MS Обычный', 'Trebuchet MS';
+  font-weight:400;
+  font-style:normal;
+}
+#u9290 {
+  border-width:0px;
+  position:absolute;
+  left:40px;
+  top:180px;
+  width:700px;
+  height:60px;
+  display:flex;
+  font-family:'Trebuchet MS Обычный', 'Trebuchet MS';
+  font-weight:400;
+  font-style:normal;
+}
+#u9290 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u9290_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u9291 label {
+  left:0px;
+  width:100%;
+}
+#u9291_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:2px;
+  width:12px;
+  height:12px;
+}
+#u9291 {
+  border-width:0px;
+  position:absolute;
+  left:60px;
+  top:200px;
+  width:320px;
+  height:18px;
+  display:flex;
+  text-align:left;
+}
+#u9291 .text {
+  position:absolute;
+  align-self:flex-start;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+}
+#u9291_img.selected {
+}
+#u9291.selected {
+}
+#u9291_img.disabled {
+}
+#u9291.disabled {
+}
+#u9291_text {
+  border-width:0px;
+  position:absolute;
+  left:14px;
+  top:0px;
+  width:304px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u9291_input {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  height:0px;
+  opacity:0;
+}
+#u9292_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:120px;
+  height:16px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Trebuchet MS Полужирный', 'Trebuchet MS';
+  font-weight:700;
+  font-style:normal;
+  font-size:14px;
+}
+#u9292 {
+  border-width:0px;
+  position:absolute;
+  left:420px;
+  top:202px;
+  width:120px;
+  height:16px;
+  display:flex;
+  font-family:'Trebuchet MS Полужирный', 'Trebuchet MS';
+  font-weight:700;
+  font-style:normal;
+  font-size:14px;
+}
+#u9292 .text {
+  position:absolute;
+  align-self:flex-start;
+  padding:0px 0px 0px 0px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u9292_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u9293_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:100px;
+  height:16px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Trebuchet MS Полужирный', 'Trebuchet MS';
+  font-weight:700;
+  font-style:normal;
+  font-size:14px;
+}
+#u9293 {
+  border-width:0px;
+  position:absolute;
+  left:620px;
+  top:200px;
+  width:100px;
+  height:16px;
+  display:flex;
+  font-family:'Trebuchet MS Полужирный', 'Trebuchet MS';
+  font-weight:700;
+  font-style:normal;
+  font-size:14px;
+}
+#u9293 .text {
+  position:absolute;
+  align-self:flex-start;
+  padding:0px 0px 0px 0px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u9293_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u9294_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:700px;
+  height:60px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:3px;
+  border-style:solid;
+  border-color:rgba(121, 121, 121, 1);
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Trebuchet MS Обычный', 'Trebuchet MS';
+  font-weight:400;
+  font-style:normal;
+}
+#u9294 {
+  border-width:0px;
+  position:absolute;
+  left:40px;
+  top:250px;
+  width:700px;
+  height:60px;
+  display:flex;
+  font-family:'Trebuchet MS Обычный', 'Trebuchet MS';
+  font-weight:400;
+  font-style:normal;
+}
+#u9294 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u9294_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u9295 label {
+  left:0px;
+  width:100%;
+}
+#u9295_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:2px;
+  width:12px;
+  height:12px;
+}
+#u9295 {
+  border-width:0px;
+  position:absolute;
+  left:60px;
+  top:271px;
+  width:320px;
+  height:18px;
+  display:flex;
+  text-align:left;
+}
+#u9295 .text {
+  position:absolute;
+  align-self:flex-start;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+}
+#u9295_img.selected {
+}
+#u9295.selected {
+}
+#u9295_img.disabled {
+}
+#u9295.disabled {
+}
+#u9295_text {
+  border-width:0px;
+  position:absolute;
+  left:14px;
+  top:0px;
+  width:304px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u9295_input {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  height:0px;
+  opacity:0;
+}
+#u9296_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:120px;
+  height:16px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Trebuchet MS Полужирный', 'Trebuchet MS';
+  font-weight:700;
+  font-style:normal;
+  font-size:14px;
+}
+#u9296 {
+  border-width:0px;
+  position:absolute;
+  left:420px;
+  top:271px;
+  width:120px;
+  height:16px;
+  display:flex;
+  font-family:'Trebuchet MS Полужирный', 'Trebuchet MS';
+  font-weight:700;
+  font-style:normal;
+  font-size:14px;
+}
+#u9296 .text {
+  position:absolute;
+  align-self:flex-start;
+  padding:0px 0px 0px 0px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u9296_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u9297_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:240px;
+  height:40px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Trebuchet MS Обычный', 'Trebuchet MS';
+  font-weight:400;
+  font-style:normal;
+}
+#u9297 {
+  border-width:0px;
+  position:absolute;
+  left:60px;
+  top:120px;
+  width:240px;
+  height:40px;
+  display:flex;
+  font-family:'Trebuchet MS Обычный', 'Trebuchet MS';
+  font-weight:400;
+  font-style:normal;
+}
+#u9297 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u9297_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u9298_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:310px;
+  height:40px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Trebuchet MS Обычный', 'Trebuchet MS';
+  font-weight:400;
+  font-style:normal;
+}
+#u9298 {
+  border-width:0px;
+  position:absolute;
+  left:60px;
+  top:189px;
+  width:310px;
+  height:40px;
+  display:flex;
+  font-family:'Trebuchet MS Обычный', 'Trebuchet MS';
+  font-weight:400;
+  font-style:normal;
+}
+#u9298 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u9298_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u9299_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:200px;
+  height:40px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Trebuchet MS Обычный', 'Trebuchet MS';
+  font-weight:400;
+  font-style:normal;
+}
+#u9299 {
+  border-width:0px;
+  position:absolute;
+  left:60px;
+  top:260px;
+  width:200px;
+  height:40px;
+  display:flex;
+  font-family:'Trebuchet MS Обычный', 'Trebuchet MS';
+  font-weight:400;
+  font-style:normal;
+}
+#u9299 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u9299_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u9300_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:700px;
+  height:60px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:3px;
+  border-style:solid;
+  border-color:rgba(121, 121, 121, 1);
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Trebuchet MS Обычный', 'Trebuchet MS';
+  font-weight:400;
+  font-style:normal;
+}
+#u9300 {
+  border-width:0px;
+  position:absolute;
+  left:40px;
+  top:40px;
+  width:700px;
+  height:60px;
+  display:flex;
+  font-family:'Trebuchet MS Обычный', 'Trebuchet MS';
+  font-weight:400;
+  font-style:normal;
+}
+#u9300 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u9300_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u9301 label {
+  left:0px;
+  width:100%;
+}
+#u9301_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:2px;
+  width:12px;
+  height:12px;
+}
+#u9301 {
+  border-width:0px;
+  position:absolute;
+  left:60px;
+  top:60px;
+  width:325px;
+  height:18px;
+  display:flex;
+  text-align:left;
+}
+#u9301 .text {
+  position:absolute;
+  align-self:flex-start;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+}
+#u9301_img.selected {
+}
+#u9301.selected {
+}
+#u9301_img.disabled {
+}
+#u9301.disabled {
+}
+#u9301_text {
+  border-width:0px;
+  position:absolute;
+  left:14px;
+  top:0px;
+  width:309px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u9301_input {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  height:0px;
+  opacity:0;
+}
+#u9302_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:120px;
+  height:16px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Trebuchet MS Полужирный', 'Trebuchet MS';
+  font-weight:700;
+  font-style:normal;
+  font-size:14px;
+}
+#u9302 {
+  border-width:0px;
+  position:absolute;
+  left:420px;
+  top:62px;
+  width:120px;
+  height:16px;
+  display:flex;
+  font-family:'Trebuchet MS Полужирный', 'Trebuchet MS';
+  font-weight:700;
+  font-style:normal;
+  font-size:14px;
+}
+#u9302 .text {
+  position:absolute;
+  align-self:flex-start;
+  padding:0px 0px 0px 0px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u9302_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u9303_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:100px;
+  height:16px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Trebuchet MS Полужирный', 'Trebuchet MS';
+  font-weight:700;
+  font-style:normal;
+  font-size:14px;
+}
+#u9303 {
+  border-width:0px;
+  position:absolute;
+  left:620px;
+  top:62px;
+  width:100px;
+  height:16px;
+  display:flex;
+  font-family:'Trebuchet MS Полужирный', 'Trebuchet MS';
+  font-weight:700;
+  font-style:normal;
+  font-size:14px;
+}
+#u9303 .text {
+  position:absolute;
+  align-self:flex-start;
+  padding:0px 0px 0px 0px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u9303_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u9304_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:240px;
+  height:40px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Trebuchet MS Обычный', 'Trebuchet MS';
+  font-weight:400;
+  font-style:normal;
+}
+#u9304 {
+  border-width:0px;
+  position:absolute;
+  left:60px;
+  top:49px;
+  width:240px;
+  height:40px;
+  display:flex;
+  font-family:'Trebuchet MS Обычный', 'Trebuchet MS';
+  font-weight:400;
+  font-style:normal;
+}
+#u9304 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u9304_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u9305_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:15px;
+  height:15px;
+}
+#u9305 {
+  border-width:0px;
+  position:absolute;
+  left:45px;
+  top:50px;
+  width:15px;
+  height:15px;
+  display:flex;
+  font-family:'Trebuchet MS Обычный', 'Trebuchet MS';
+  font-weight:400;
+  font-style:normal;
+}
+#u9305 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u9305_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u9306_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:15px;
+  height:15px;
+}
+#u9306 {
+  border-width:0px;
+  position:absolute;
+  left:45px;
+  top:125px;
+  width:15px;
+  height:15px;
+  display:flex;
+  font-family:'Trebuchet MS Обычный', 'Trebuchet MS';
+  font-weight:400;
+  font-style:normal;
+}
+#u9306 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u9306_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u9307_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:15px;
+  height:15px;
+}
+#u9307 {
+  border-width:0px;
+  position:absolute;
+  left:45px;
+  top:194px;
+  width:15px;
+  height:15px;
+  display:flex;
+  font-family:'Trebuchet MS Обычный', 'Trebuchet MS';
+  font-weight:400;
+  font-style:normal;
+}
+#u9307 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u9307_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u9308_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:15px;
+  height:15px;
+}
+#u9308 {
+  border-width:0px;
+  position:absolute;
+  left:45px;
+  top:265px;
+  width:15px;
+  height:15px;
+  display:flex;
+  font-family:'Trebuchet MS Обычный', 'Trebuchet MS';
+  font-weight:400;
+  font-style:normal;
+}
+#u9308 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u9308_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u9309 label {
+  left:0px;
+  width:100%;
+}
+#u9309_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:2px;
+  width:12px;
+  height:12px;
+}
+#u9309 {
+  border-width:0px;
+  position:absolute;
+  left:60px;
+  top:340px;
+  width:320px;
+  height:18px;
+  display:flex;
+  text-align:left;
+}
+#u9309 .text {
+  position:absolute;
+  align-self:flex-start;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+}
+#u9309_img.selected {
+}
+#u9309.selected {
+}
+#u9309_img.disabled {
+}
+#u9309.disabled {
+}
+#u9309_text {
+  border-width:0px;
+  position:absolute;
+  left:14px;
+  top:0px;
+  width:304px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u9309_input {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  height:0px;
+  opacity:0;
+}
+#u9310_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:120px;
+  height:16px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Trebuchet MS Полужирный', 'Trebuchet MS';
+  font-weight:700;
+  font-style:normal;
+  font-size:14px;
+}
+#u9310 {
+  border-width:0px;
+  position:absolute;
+  left:420px;
+  top:340px;
+  width:120px;
+  height:16px;
+  display:flex;
+  font-family:'Trebuchet MS Полужирный', 'Trebuchet MS';
+  font-weight:700;
+  font-style:normal;
+  font-size:14px;
+}
+#u9310 .text {
+  position:absolute;
+  align-self:flex-start;
+  padding:0px 0px 0px 0px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u9310_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u9311_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:100px;
+  height:16px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Trebuchet MS Полужирный', 'Trebuchet MS';
+  font-weight:700;
+  font-style:normal;
+  font-size:14px;
+}
+#u9311 {
+  border-width:0px;
+  position:absolute;
+  left:620px;
+  top:340px;
+  width:100px;
+  height:16px;
+  display:flex;
+  font-family:'Trebuchet MS Полужирный', 'Trebuchet MS';
+  font-weight:700;
+  font-style:normal;
+  font-size:14px;
+}
+#u9311 .text {
+  position:absolute;
+  align-self:flex-start;
+  padding:0px 0px 0px 0px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u9311_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u9312_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:15px;
+  height:15px;
+}
+#u9312 {
+  border-width:0px;
+  position:absolute;
+  left:45px;
+  top:329px;
+  width:15px;
+  height:15px;
+  display:flex;
+  font-family:'Trebuchet MS Обычный', 'Trebuchet MS';
+  font-weight:400;
+  font-style:normal;
+}
+#u9312 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u9312_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u9313_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:140px;
+  height:14px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u9313 {
+  border-width:0px;
+  position:absolute;
+  left:80px;
+  top:396px;
+  width:140px;
+  height:14px;
+  display:flex;
+}
+#u9313 .text {
+  position:absolute;
+  align-self:flex-start;
+  padding:0px 0px 0px 0px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u9313_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u9314 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  height:0px;
+}
+#u9315_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:500px;
+  height:30px;
+}
+#u9315 {
+  border-width:0px;
+  position:absolute;
+  left:220px;
+  top:391px;
+  width:500px;
+  height:30px;
+  display:flex;
+  line-height:10px;
+}
+#u9315 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u9315_img.selected {
+  left:-7px;
+  top:-7px;
+  width:514px;
+  height:44px;
+}
+#u9315.selected {
+}
+#u9315_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u9316_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:468px;
+  height:30px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Trebuchet MS Обычный', 'Trebuchet MS';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  line-height:20px;
+}
+#u9316 {
+  border-width:0px;
+  position:absolute;
+  left:220px;
+  top:391px;
+  width:468px;
+  height:30px;
+  display:flex;
+  font-family:'Trebuchet MS Обычный', 'Trebuchet MS';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  line-height:20px;
+}
+#u9316 .text {
+  position:absolute;
+  align-self:flex-start;
+  padding:5px 10px 5px 15px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u9316_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u9317_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:30px;
+  height:30px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Webdings Обычный', 'Webdings';
+  font-weight:400;
+  font-style:normal;
+  font-size:16px;
+  text-align:center;
+  line-height:20px;
+}
+#u9317 {
+  border-width:0px;
+  position:absolute;
+  left:688px;
+  top:391px;
+  width:30px;
+  height:30px;
+  display:flex;
+  font-family:'Webdings Обычный', 'Webdings';
+  font-weight:400;
+  font-style:normal;
+  font-size:16px;
+  text-align:center;
+  line-height:20px;
+}
+#u9317 .text {
+  position:absolute;
+  align-self:flex-start;
+  padding:5px 10px 5px 10px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u9317_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u9318 {
+  border-width:0px;
+  position:absolute;
+  left:220px;
+  top:421px;
+  width:500px;
+  height:179px;
+  visibility:hidden;
+}
+#u9318_state0 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:500px;
+  height:179px;
+  -ms-overflow-x:hidden;
+  overflow-x:hidden;
+  -ms-overflow-y:hidden;
+  overflow-y:hidden;
+  background-image:none;
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u9318_state0_content {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
+#u9319_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:500px;
+  height:110px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(201, 201, 201, 1);
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u9319 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:500px;
+  height:110px;
+  display:flex;
+}
+#u9319 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 15px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u9319_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u9320_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:358px;
+  height:30px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Trebuchet MS Обычный', 'Trebuchet MS';
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+  text-align:left;
+}
+#u9320 {
+  border-width:0px;
+  position:absolute;
+  left:1px;
+  top:1px;
+  width:358px;
+  height:30px;
+  display:flex;
+  font-family:'Trebuchet MS Обычный', 'Trebuchet MS';
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+  text-align:left;
+}
+#u9320 .text {
+  position:absolute;
+  align-self:center;
+  padding:0px 0px 0px 15px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u9320_div.mouseOver {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:358px;
+  height:30px;
+  background:-webkit-linear-gradient(270deg, rgba(0, 135, 203, 1) 0%, rgba(0, 135, 203, 1) 0%, rgba(0, 119, 179, 1) 100%, rgba(0, 119, 179, 1) 100%);
+  background:-moz-linear-gradient(180deg, rgba(0, 135, 203, 1) 0%, rgba(0, 135, 203, 1) 0%, rgba(0, 119, 179, 1) 100%, rgba(0, 119, 179, 1) 100%);
+  background:linear-gradient(180deg, rgba(0, 135, 203, 1) 0%, rgba(0, 135, 203, 1) 0%, rgba(0, 119, 179, 1) 100%, rgba(0, 119, 179, 1) 100%);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Trebuchet MS Обычный', 'Trebuchet MS';
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+  text-align:left;
+}
+#u9320.mouseOver {
+}
+#u9320_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u9321_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:358px;
+  height:30px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'HelveticaNeueCyr Roman', 'HelveticaNeueCyr';
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+  text-align:left;
+}
+#u9321 {
+  border-width:0px;
+  position:absolute;
+  left:1px;
+  top:31px;
+  width:358px;
+  height:30px;
+  display:flex;
+  font-family:'HelveticaNeueCyr Roman', 'HelveticaNeueCyr';
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+  text-align:left;
+}
+#u9321 .text {
+  position:absolute;
+  align-self:center;
+  padding:0px 0px 0px 15px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u9321_div.mouseOver {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:358px;
+  height:30px;
+  background:-webkit-linear-gradient(270deg, rgba(0, 135, 203, 1) 0%, rgba(0, 135, 203, 1) 0%, rgba(0, 119, 179, 1) 100%, rgba(0, 119, 179, 1) 100%);
+  background:-moz-linear-gradient(180deg, rgba(0, 135, 203, 1) 0%, rgba(0, 135, 203, 1) 0%, rgba(0, 119, 179, 1) 100%, rgba(0, 119, 179, 1) 100%);
+  background:linear-gradient(180deg, rgba(0, 135, 203, 1) 0%, rgba(0, 135, 203, 1) 0%, rgba(0, 119, 179, 1) 100%, rgba(0, 119, 179, 1) 100%);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'HelveticaNeueCyr Roman', 'HelveticaNeueCyr';
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+  text-align:left;
+}
+#u9321.mouseOver {
+}
+#u9321_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u9322_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:358px;
+  height:30px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'HelveticaNeueCyr Roman', 'HelveticaNeueCyr';
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+  text-align:left;
+}
+#u9322 {
+  border-width:0px;
+  position:absolute;
+  left:1px;
+  top:61px;
+  width:358px;
+  height:30px;
+  display:flex;
+  font-family:'HelveticaNeueCyr Roman', 'HelveticaNeueCyr';
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+  text-align:left;
+}
+#u9322 .text {
+  position:absolute;
+  align-self:center;
+  padding:0px 0px 0px 15px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u9322_div.mouseOver {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:358px;
+  height:30px;
+  background:-webkit-linear-gradient(270deg, rgba(0, 135, 203, 1) 0%, rgba(0, 135, 203, 1) 0%, rgba(0, 119, 179, 1) 100%, rgba(0, 119, 179, 1) 100%);
+  background:-moz-linear-gradient(180deg, rgba(0, 135, 203, 1) 0%, rgba(0, 135, 203, 1) 0%, rgba(0, 119, 179, 1) 100%, rgba(0, 119, 179, 1) 100%);
+  background:linear-gradient(180deg, rgba(0, 135, 203, 1) 0%, rgba(0, 135, 203, 1) 0%, rgba(0, 119, 179, 1) 100%, rgba(0, 119, 179, 1) 100%);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'HelveticaNeueCyr Roman', 'HelveticaNeueCyr';
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+  text-align:left;
+}
+#u9322.mouseOver {
+}
+#u9322_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u9323_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:353px;
+  height:44px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Trebuchet MS Обычный', 'Trebuchet MS';
+  font-weight:400;
+  font-style:normal;
+}
+#u9323 {
+  border-width:0px;
+  position:absolute;
+  left:40px;
+  top:180px;
+  width:353px;
+  height:44px;
+  display:flex;
+  font-family:'Trebuchet MS Обычный', 'Trebuchet MS';
+  font-weight:400;
+  font-style:normal;
+}
+#u9323 .text {
+  position:absolute;
+  align-self:flex-start;
+  padding:0px 0px 0px 0px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u9323_text {
+  border-width:0px;
+  white-space:nowrap;
+  text-transform:none;
+}
+#u9324_img {
+  border-width:0px;
+  position:absolute;
+  left:-4px;
+  top:-7px;
+  width:454px;
+  height:94px;
+}
+#u9324 {
+  border-width:0px;
+  position:absolute;
+  left:840px;
+  top:250px;
+  width:440px;
+  height:80px;
+  display:flex;
+  font-family:'Roboto Regular', 'Roboto';
+  font-style:normal;
+  text-align:left;
+  line-height:20px;
+}
+#u9324 .text {
+  position:absolute;
+  align-self:flex-start;
+  padding:10px 2px 2px 60px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u9324_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u9325_img {
+  border-width:0px;
+  position:absolute;
+  left:-4px;
+  top:-7px;
+  width:494px;
+  height:94px;
+}
+#u9325 {
+  border-width:0px;
+  position:absolute;
+  left:400px;
+  top:250px;
+  width:480px;
+  height:80px;
+  display:flex;
+  font-family:'Roboto Regular', 'Roboto';
+  font-weight:400;
+  font-style:normal;
+  text-align:left;
+  line-height:20px;
+}
+#u9325 .text {
+  position:absolute;
+  align-self:flex-start;
+  padding:10px 2px 2px 60px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u9325_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u9326_img {
+  border-width:0px;
+  position:absolute;
+  left:-4px;
+  top:-7px;
+  width:454px;
+  height:94px;
+}
+#u9326 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:250px;
+  width:440px;
+  height:80px;
+  display:flex;
+  font-family:'Roboto Regular', 'Roboto';
+  font-style:normal;
+  text-align:left;
+  line-height:20px;
+}
+#u9326 .text {
+  position:absolute;
+  align-self:flex-start;
+  padding:10px 2px 2px 60px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u9326_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u9327_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:360px;
+  height:602px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:0px 5px 15px rgba(0, 0, 0, 0.247058823529412);
+  -webkit-box-shadow:0px 5px 15px rgba(0, 0, 0, 0.247058823529412);
+  box-shadow:0px 5px 15px rgba(0, 0, 0, 0.247058823529412);
+  font-family:'Trebuchet MS Обычный', 'Trebuchet MS';
+  font-weight:400;
+  font-style:normal;
+}
+#u9327 {
+  border-width:0px;
+  position:absolute;
+  left:920px;
+  top:374px;
+  width:360px;
+  height:602px;
+  display:flex;
+  font-family:'Trebuchet MS Обычный', 'Trebuchet MS';
+  font-weight:400;
+  font-style:normal;
+}
+#u9327 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u9327_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u9328_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:203px;
+  height:88px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Trebuchet MS Обычный', 'Trebuchet MS';
+  font-style:normal;
+}
+#u9328 {
+  border-width:0px;
+  position:absolute;
+  left:1050px;
+  top:474px;
+  width:203px;
+  height:88px;
+  display:flex;
+  font-family:'Trebuchet MS Обычный', 'Trebuchet MS';
+  font-style:normal;
+}
+#u9328 .text {
+  position:absolute;
+  align-self:flex-start;
+  padding:0px 0px 0px 0px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u9328_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u9329_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:203px;
+  height:88px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Trebuchet MS Обычный', 'Trebuchet MS';
+  font-style:normal;
+}
+#u9329 {
+  border-width:0px;
+  position:absolute;
+  left:1050px;
+  top:584px;
+  width:203px;
+  height:88px;
+  display:flex;
+  font-family:'Trebuchet MS Обычный', 'Trebuchet MS';
+  font-style:normal;
+}
+#u9329 .text {
+  position:absolute;
+  align-self:flex-start;
+  padding:0px 0px 0px 0px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u9329_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u9330_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:80px;
+  height:90px;
+  background:inherit;
+  background-color:rgba(153, 153, 153, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Trebuchet MS Обычный', 'Trebuchet MS';
+  font-weight:400;
+  font-style:normal;
+}
+#u9330 {
+  border-width:0px;
+  position:absolute;
+  left:950px;
+  top:474px;
+  width:80px;
+  height:90px;
+  display:flex;
+  font-family:'Trebuchet MS Обычный', 'Trebuchet MS';
+  font-weight:400;
+  font-style:normal;
+}
+#u9330 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u9330_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u9331_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:80px;
+  height:90px;
+  background:inherit;
+  background-color:rgba(153, 153, 153, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Trebuchet MS Обычный', 'Trebuchet MS';
+  font-weight:400;
+  font-style:normal;
+}
+#u9331 {
+  border-width:0px;
+  position:absolute;
+  left:950px;
+  top:584px;
+  width:80px;
+  height:90px;
+  display:flex;
+  font-family:'Trebuchet MS Обычный', 'Trebuchet MS';
+  font-weight:400;
+  font-style:normal;
+}
+#u9331 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u9331_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u9332_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:203px;
+  height:88px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Trebuchet MS Обычный', 'Trebuchet MS';
+  font-style:normal;
+}
+#u9332 {
+  border-width:0px;
+  position:absolute;
+  left:1050px;
+  top:692px;
+  width:203px;
+  height:88px;
+  display:flex;
+  font-family:'Trebuchet MS Обычный', 'Trebuchet MS';
+  font-style:normal;
+}
+#u9332 .text {
+  position:absolute;
+  align-self:flex-start;
+  padding:0px 0px 0px 0px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u9332_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u9333_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:80px;
+  height:90px;
+  background:inherit;
+  background-color:rgba(153, 153, 153, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Trebuchet MS Обычный', 'Trebuchet MS';
+  font-weight:400;
+  font-style:normal;
+}
+#u9333 {
+  border-width:0px;
+  position:absolute;
+  left:950px;
+  top:692px;
+  width:80px;
+  height:90px;
+  display:flex;
+  font-family:'Trebuchet MS Обычный', 'Trebuchet MS';
+  font-weight:400;
+  font-style:normal;
+}
+#u9333 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u9333_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u9334_img {
+  border-width:0px;
+  position:absolute;
+  left:-1px;
+  top:-1px;
+  width:303px;
+  height:5px;
+}
+#u9334 {
+  border-width:0px;
+  position:absolute;
+  left:950px;
+  top:844px;
+  width:300px;
+  height:2px;
+  display:flex;
+}
+#u9334 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u9334_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u9335_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:129px;
+  height:32px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Trebuchet MS Обычный', 'Trebuchet MS';
+  font-weight:400;
+  font-style:normal;
+  font-size:28px;
+}
+#u9335 {
+  border-width:0px;
+  position:absolute;
+  left:950px;
+  top:393px;
+  width:129px;
+  height:32px;
+  display:flex;
+  font-family:'Trebuchet MS Обычный', 'Trebuchet MS';
+  font-weight:400;
+  font-style:normal;
+  font-size:28px;
+}
+#u9335 .text {
+  position:absolute;
+  align-self:flex-start;
+  padding:0px 0px 0px 0px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u9335_text {
+  border-width:0px;
+  white-space:nowrap;
+  text-transform:none;
+}
+#u9336 {
+  border-width:0px;
+  position:absolute;
+  left:950px;
+  top:856px;
+  width:300px;
+  height:96px;
+}
+#u9337_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:200px;
+  height:24px;
+}
+#u9337 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:200px;
+  height:24px;
+  display:flex;
+  font-family:'Trebuchet MS Обычный', 'Trebuchet MS';
+  font-weight:400;
+  font-style:normal;
+  font-size:16px;
+  text-align:left;
+}
+#u9337 .text {
+  position:absolute;
+  align-self:center;
+  padding:0px 40px 0px 0px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u9337_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u9338_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:100px;
+  height:24px;
+}
+#u9338 {
+  border-width:0px;
+  position:absolute;
+  left:200px;
+  top:0px;
+  width:100px;
+  height:24px;
+  display:flex;
+  font-family:'Trebuchet MS Обычный', 'Trebuchet MS';
+  font-weight:400;
+  font-style:normal;
+  font-size:16px;
+  text-align:right;
+}
+#u9338 .text {
+  position:absolute;
+  align-self:center;
+  padding:0px 0px 0px 0px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u9338_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u9339_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:200px;
+  height:24px;
+}
+#u9339 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:24px;
+  width:200px;
+  height:24px;
+  display:flex;
+  font-family:'Trebuchet MS Обычный', 'Trebuchet MS';
+  font-weight:400;
+  font-style:normal;
+  font-size:16px;
+  text-align:left;
+}
+#u9339 .text {
+  position:absolute;
+  align-self:center;
+  padding:0px 40px 0px 0px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u9339_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u9340_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:100px;
+  height:24px;
+}
+#u9340 {
+  border-width:0px;
+  position:absolute;
+  left:200px;
+  top:24px;
+  width:100px;
+  height:24px;
+  display:flex;
+  font-family:'Trebuchet MS Обычный', 'Trebuchet MS';
+  font-weight:400;
+  font-style:normal;
+  font-size:16px;
+  text-align:right;
+}
+#u9340 .text {
+  position:absolute;
+  align-self:center;
+  padding:0px 0px 0px 0px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u9340_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u9341_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:200px;
+  height:24px;
+}
+#u9341 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:48px;
+  width:200px;
+  height:24px;
+  display:flex;
+  font-family:'Trebuchet MS Обычный', 'Trebuchet MS';
+  font-weight:400;
+  font-style:normal;
+  font-size:16px;
+  text-align:left;
+}
+#u9341 .text {
+  position:absolute;
+  align-self:center;
+  padding:0px 40px 0px 0px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u9341_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u9342_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:100px;
+  height:24px;
+}
+#u9342 {
+  border-width:0px;
+  position:absolute;
+  left:200px;
+  top:48px;
+  width:100px;
+  height:24px;
+  display:flex;
+  font-family:'Trebuchet MS Обычный', 'Trebuchet MS';
+  font-weight:400;
+  font-style:normal;
+  font-size:16px;
+  text-align:right;
+}
+#u9342 .text {
+  position:absolute;
+  align-self:center;
+  padding:0px 0px 0px 0px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u9342_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u9343_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:200px;
+  height:24px;
+}
+#u9343 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:72px;
+  width:200px;
+  height:24px;
+  display:flex;
+  font-family:'Trebuchet MS Обычный', 'Trebuchet MS';
+  font-weight:400;
+  font-style:normal;
+  font-size:16px;
+  text-align:left;
+}
+#u9343 .text {
+  position:absolute;
+  align-self:center;
+  padding:0px 40px 0px 0px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u9343_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u9344_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:100px;
+  height:24px;
+}
+#u9344 {
+  border-width:0px;
+  position:absolute;
+  left:200px;
+  top:72px;
+  width:100px;
+  height:24px;
+  display:flex;
+  font-family:'Trebuchet MS Обычный', 'Trebuchet MS';
+  font-weight:400;
+  font-style:normal;
+  font-size:16px;
+  text-align:right;
+}
+#u9344 .text {
+  position:absolute;
+  align-self:center;
+  padding:0px 0px 0px 0px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u9344_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u9345_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:111px;
+  height:16px;
+}
+#u9345 {
+  border-width:0px;
+  position:absolute;
+  left:1045px;
+  top:439px;
+  width:111px;
+  height:16px;
+  display:flex;
+  font-family:'Trebuchet MS Обычный', 'Trebuchet MS';
+  font-weight:400;
+  font-style:normal;
+}
+#u9345 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u9345_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u9346_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:111px;
+  height:16px;
+}
+#u9346 {
+  border-width:0px;
+  position:absolute;
+  left:1045px;
+  top:802px;
+  width:111px;
+  height:16px;
+  display:flex;
+  -webkit-transform:rotate(180deg);
+  -moz-transform:rotate(180deg);
+  -ms-transform:rotate(180deg);
+  transform:rotate(180deg);
+  font-family:'Trebuchet MS Обычный', 'Trebuchet MS';
+  font-weight:400;
+  font-style:normal;
+}
+#u9346 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u9346_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}

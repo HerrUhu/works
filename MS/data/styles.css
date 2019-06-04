@@ -1,0 +1,199 @@
+﻿.ax_default {
+  font-family:'Arial Обычный', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  letter-spacing:normal;
+  color:#333333;
+  vertical-align:none;
+  text-align:center;
+  line-height:normal;
+  text-transform:none;
+}
+.h1 {
+  font-family:'Trebuchet MS Полужирный', 'Trebuchet MS';
+  font-weight:700;
+  font-style:normal;
+  font-size:38px;
+  line-height:42px;
+}
+.h2 {
+  font-family:'Trebuchet MS Полужирный', 'Trebuchet MS';
+  font-weight:700;
+  font-style:normal;
+  font-size:32px;
+  line-height:36px;
+}
+.h3 {
+  font-family:'Trebuchet MS Полужирный', 'Trebuchet MS';
+  font-weight:700;
+  font-style:normal;
+  font-size:24px;
+  line-height:28px;
+}
+.h4 {
+  font-family:'Trebuchet MS Полужирный', 'Trebuchet MS';
+  font-weight:700;
+  font-style:normal;
+  font-size:18px;
+  line-height:20px;
+}
+.h5 {
+  font-family:'Trebuchet MS Полужирный', 'Trebuchet MS';
+  font-weight:700;
+  font-style:normal;
+  font-size:14px;
+  line-height:18px;
+}
+.h6 {
+  font-family:'Trebuchet MS Полужирный', 'Trebuchet MS';
+  font-weight:700;
+  font-style:normal;
+  font-size:12px;
+  line-height:16px;
+}
+.text1 {
+  font-family:'Trebuchet MS Обычный', 'Trebuchet MS';
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+  text-align:left;
+}
+.text_preview {
+}
+.text_suport {
+}
+.menu {
+  font-family:'Trebuchet MS Обычный', 'Trebuchet MS';
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+  text-align:left;
+}
+.link {
+  font-family:'Trebuchet MS Обычный', 'Trebuchet MS';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#2E78B8;
+}
+.small {
+  font-family:'Arial Обычный', 'Arial';
+  font-weight:normal;
+  font-style:normal;
+  font-size:10px;
+  color:#666666;
+  text-align:left;
+  line-height:normal;
+}
+.placeholder {
+  font-family:'Arial Обычный', 'Arial';
+  font-weight:normal;
+  font-style:normal;
+  font-size:12px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
+}
+.link_inactive {
+  font-family:'Arial Обычный', 'Arial';
+  font-weight:normal;
+  font-style:normal;
+  font-size:12px;
+  color:#000099;
+  text-align:left;
+  line-height:normal;
+}
+.fontawesome {
+}
+.button_normal_seconday {
+  font-family:'Arial Обычный', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  color:#FFFFFF;
+}
+.shape {
+}
+.image {
+  color:#000000;
+}
+.heading_1 {
+  font-family:'HelveticaNeueCyr Bold', 'HelveticaNeueCyr Roman', 'HelveticaNeueCyr';
+  font-weight:700;
+  font-style:normal;
+  font-size:38px;
+  text-align:left;
+}
+.heading_2 {
+  font-family:'Trebuchet MS Полужирный', 'Trebuchet MS';
+  font-weight:700;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+.heading_3 {
+  font-family:'Arial Полужирный', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:18px;
+  text-align:left;
+}
+.heading_4 {
+  font-family:'Arial Полужирный', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:14px;
+  text-align:left;
+}
+.heading_5 {
+  font-family:'Arial Полужирный', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  text-align:left;
+}
+.heading_6 {
+  font-family:'Arial Полужирный', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:10px;
+  text-align:left;
+}
+.paragraph {
+  text-align:left;
+}
+.form_hint {
+  color:#999999;
+}
+.form_disabled {
+}
+.line {
+}
+.text_field {
+  color:#000000;
+  text-align:left;
+}
+.checkbox {
+  text-align:left;
+}
+.radio_button {
+  text-align:left;
+}
+.table {
+}
+.table_cell {
+}
+.horizontal_line {
+}
+.vertical_line {
+}
+.basicbutton-outline {
+  font-family:'Roboto Medium', 'Roboto';
+  font-weight:500;
+  font-style:normal;
+  font-size:16px;
+  color:#1BBC9C;
+  text-align:center;
+}
+.box_1 {
+}
+textarea, select, input, button { outline: none; }
