@@ -17,8 +17,6 @@
 }
 .box_2 {
 }
-.box_3 {
-}
 .ellipse {
 }
 .image1 {
@@ -118,13 +116,5 @@
   text-align:left;
 }
 .icon {
-}
-.basictextlabel {
-  font-family:'Roboto Medium', 'Roboto Regular', 'Roboto';
-  font-weight:500;
-  font-style:normal;
-  font-size:13px;
-  color:#1BBC9C;
-  text-align:center;
 }
 textarea, select, input, button { outline: none; }
